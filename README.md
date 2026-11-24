@@ -36,7 +36,7 @@ CHA ●○○○○○○○○○
 
 ## Code Structure Example
 
-Excerpt from the script handling validation checks and visual stat bar formatting in `create_character()`:
+Excerpt from `create_character()` showing input validation and guard clauses on the character name :
 
 ```python
 def create_character(character_name, strength, intelligence, charisma):
