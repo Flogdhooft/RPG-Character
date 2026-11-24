@@ -49,3 +49,21 @@ def create_character(character_name, strength, intelligence, charisma):
     if character_name.count(' '):
         return 'The character name should not contain spaces'
 ```
+
+---
+
+## Run the application
+
+To run this project locally, make sure you have Python 3 installed on your machine.
+
+1. **Clone the repository :**
+   ```bash
+   git clone https://github.com/Flogdhooft/RPG-Character.git
+
+2. **Navigate to the project directory :**
+   ```bash
+    cd RPG-Character
+
+3. **Run the script :**
+   ```bash
+    py main.py
